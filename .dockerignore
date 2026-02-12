@@ -1,0 +1,11 @@
+.git
+**/target
+**/node_modules
+**/dist
+**/.idea
+**/.vscode
+**/.DS_Store
+**/*.log
+**/tmpclaude-*
+artifacts/screenshots
+flavorpay---premium-food-checkout/artifacts/screenshots
